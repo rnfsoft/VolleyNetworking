@@ -17,19 +17,17 @@ Due to error: Over Quota (This application is temporarily over its serving quota
 2. Added a button to trigger fetchJsonResponse()
 
 3. Way to import a module(Volley Library)
-a.
+
 ![alt tag](https://cloud.githubusercontent.com/assets/11301947/9505022/c12b079e-4bf4-11e5-8a75-70c6d07864e7.jpg)
 
-b. 
 ![alt tag](https://cloud.githubusercontent.com/assets/11301947/9505027/c6c6c396-4bf4-11e5-928d-47109d5ee483.jpg)
 
-c.
 ![alt tag](https://cloud.githubusercontent.com/assets/11301947/9505030/c9411d1a-4bf4-11e5-823a-01d694a29443.jpg)
 
-d.
 ![alt tag](https://cloud.githubusercontent.com/assets/11301947/9505033/cb146a16-4bf4-11e5-9a48-66d7b634c482.jpg)
 
 Result:
+
 ![result](https://cloud.githubusercontent.com/assets/11301947/9505066/fbc52f24-4bf4-11e5-8813-5827108b5781.jpg)
 
 
