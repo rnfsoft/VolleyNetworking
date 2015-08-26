@@ -3,16 +3,15 @@ Codes from https://guides.codepath.com/android/Networking-with-the-Volley-Librar
 
 Time: 1 hr
 
-Level: 1/3
+Level: 2/3
 
 Device: Emulator
 
 Testing: Working with minor code changes
 
-1.http://ip.jsontest.com/ --> http://httpbin.org/ip 
-response.getString("ip") --> response.getString("origin")
-
-Due to error: Over Quota (This application is temporarily over its serving quota. Please try again later.)
+1. http://ip.jsontest.com/ --> http://httpbin.org/ip 
+   response.getString("ip") --> response.getString("origin")
+   Due to error: Over Quota (This application is temporarily over its serving quota. Please try again later.)
 
 2. Added a button to trigger fetchJsonResponse()
 
